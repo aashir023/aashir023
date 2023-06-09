@@ -1,3 +1,4 @@
+![logo](https://github.com/aashir023/aashir023/blob/main/Black%20Modern%20Profile%20Twitter%20Header.png)
 <h1 align="center">Hi 👋, I'm Aashir Ali</h1>
 <h3 align="center">A passionate Software engineering student from Pakistan</h3>
 
