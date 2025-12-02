@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Aashir Ali</h1>
-<h3 align="center">Junior AI Engineer | building reliable LLM, RAG, and Agentic AI systems</h3>
+<h3 align="center">Junior AI Engineer @ iOPTIME PVT LTD | building reliable LLM, RAG, and Agentic AI systems</h3>
 
 <!-- Small animated illustration floated right -->
 
@@ -15,7 +15,7 @@
 
 ## About
 
-I’m a Junior AI Engineer based in Pakistan. I design, build and ship generative AI systems, from prototyping to production deployments. My work covers Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic and multi-agent orchestration (LangGraph), and the MLOps practices required to make those systems reliable and maintainable in production.
+I’m currently working as a Junior AI Engineer at iOPTIME PVT LTD. I design, build and ship generative AI systems, from prototyping to production deployments. My work covers Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic and multi-agent orchestration (LangGraph), and the MLOps practices required to make those systems reliable and maintainable in production.
 
 I develop retrieval-augmented systems leveraging vector databases, integrating them with large language models to enable context-aware, knowledge-grounded responses. I architect multi-step agent pipelines that decompose complex tasks into modular, deterministic subtasks for robust execution. In production, I implement FastAPI-based model serving and containerized deployments, ensuring scalable, reliable, and production-ready ML services. On the production side I build FastAPI-backed model services, containerize them with Docker, and wire them into CI/CD and monitoring pipelines so teams can safely push updates and operate at scale.
 
