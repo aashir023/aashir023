@@ -28,7 +28,7 @@ Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
 ## Core strengths & focus areas
 
 * Generative models & LLMs: prompt engineering, fine-tuning, instruction tuning, evaluation and calibration
-* Retrieval & RAG: embeddings, vector stores (FAISS/annoy), retrieval pipelines, and latency-aware design
+* Retrieval & RAG: embeddings, vector databases (QDrant/ChromaDb), retrieval pipelines, and latency-aware design
 * Agentic & multi-agent workflows: LangGraph orchestration, planning, and robust error handling between agents
 * MLOps & Serving: FastAPI-based inference services, Docker containerization, CI/CD, observability and cost-aware deployment
 * Computer Vision & Audio: segmentation model optimization for edge devices, Whisper-based Speech-To-Text, speaker diarization and transcript processing
@@ -55,7 +55,7 @@ Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
 
 * Designed and deployed multiple RAG systems integrating vector indexes with LLMs for knowledge-grounded generation and Q&A.
 * Built multi-agent orchestration using LangGraph to decompose complex workflows into reliable agent sub-tasks, with clear state passing and retry policies.
-* Packaged model services with FastAPI, containerized them using Docker, and integrated with CI pipelines and monitoring for safe production operations.
+* Packaged model services with FastAPI, containerized them using Docker, and integrated with CI/CD pipelines and monitoring for safe production operations.
 * Implemented real-time segmentation models optimized for edge inference (pruning/quantization and runtime tuning).
 * Built audio pipelines using Whisper for STT and pyannote-like approaches for speaker diarization, producing clean multi-speaker transcripts and metadata.
 
