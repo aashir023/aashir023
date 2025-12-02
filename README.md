@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Aashir Ali</h1>
-<h3 align="center">Junior AI Engineer | production-grade generative systems & ML pipelines</h3>
+<h3 align="center">Junior AI Engineer | building reliable LLM, RAG, and ML systems</h3>
 
 <!-- Small animated illustration floated right -->
 
@@ -15,11 +15,11 @@
 
 ## About
 
-I’m a Junior AI Engineer based in Pakistan. I design, build and ship production-capable generative systems — from prototyping research ideas to operational deployments. My work covers Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic and multi-agent orchestration (LangGraph), and the MLOps practices required to make those systems reliable and maintainable in production.
+I’m a Junior AI Engineer based in Pakistan. I design, build and ship generative systems, from prototyping t, production deployments. My work covers Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic and multi-agent orchestration (LangGraph), and the MLOps practices required to make those systems reliable and maintainable in production.
 
 I’ve implemented retrieval stacks with vector indexes, integrated them with LLMs for knowledge-grounded responses, and built multi-step agent pipelines to split complex tasks into reliable subtasks. On the production side I build FastAPI-backed model services, containerize them with Docker, and wire them into CI/CD and monitoring pipelines so teams can safely push updates and operate at scale.
 
-Beyond text, I have practical experience with real-time computer vision (SOTA segmentation models optimized for low-latency inference) and audio pipelines — including speech-to-text with OpenAI’s Whisper and speaker diarization for multi-speaker transcripts.
+Beyond text, I have practical experience with real-time computer vision (SOTA segmentation models optimized for low-latency inference) and audio pipelines , including speech-to-text with OpenAI’s Whisper and speaker diarization for multi-speaker transcripts.
 
 Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
 
@@ -37,18 +37,16 @@ Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
 
 ## Selected tools & technologies
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="34" height="34" title="Python">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="34" height="34" title="PyTorch">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="34" height="34" title="scikit-learn">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="Hugging Face" width="34" height="34" title="Hugging Face">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="OpenAI" width="34" height="34" title="OpenAI">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="34" height="34" title="FastAPI">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="34" height="34" title="Docker">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="34" height="34" title="OpenCV">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="34" height="34" title="MySQL">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="34" height="34" title="Git">&nbsp;&nbsp;
-</p>
+* Python
+* PyTorch
+* scikit-learn
+* Hugging Face
+* OpenAI
+* FastAPI
+* Docker
+* OpenCV
+* MySQL
+* Git
 
 *If any icon doesn't render on GitHub, I can switch to a plain list or use SVG embeds as a fallback.*
 
