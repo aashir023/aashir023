@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/aashir023/aashir023/blob/main/Black%20Modern%20Profile%20Twitter%20Header%20(1).png" alt="logo" width="200" />
+  <img src="https://github.com/aashir023/aashir023/blob/main/image.png" alt="logo" width="200" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aashir Ali</h1>
