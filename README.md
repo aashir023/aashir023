@@ -1,73 +1,81 @@
 <p align="center">
-  <img src="https://github.com/aashir023/aashir023/blob/main/image.png" alt="logo" width="200" />
+  <img src="https://github.com/aashir023/aashir023/blob/main/image.png" alt="cover" style="width:100%;max-width:1400px;border-radius:4px;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aashir Ali</h1>
-<h3 align="center">Junior AI Engineer — building reliable, production-ready ML & AI systems</h3>
+<h1 align="center">Hi, I'm Aashir Ali</h1>
+<h3 align="center">Junior Generative AI Engineer — production-ready generative systems & pipelines</h3>
 
-<p align="center">
-  <img alt="coding" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<!-- Small animated illustration floated to the right of the intro -->
+
+<p>
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" align="right" style="width:260px;margin-left:24px;border-radius:6px;">
 </p>
 
 ---
 
-## About me
+## About
 
-I am a junior AI engineer from Pakistan with hands-on experience building and deploying modern AI systems. I work across the full ML lifecycle — research-proof-of-concept to production — with special focus on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic & multi-agent workflows, and MLOps. I also have practical experience in computer vision and audio processing (speech-to-text and speaker diarization).
+I am a Junior Generative AI Engineer from Pakistan with hands-on experience building and shipping generative systems and production ML services. I work across the model lifecycle — prototyping, evaluation, and production deployment — with a focus on LLMs, RAG systems, multi-agent orchestration, and MLOps.
 
-* 🎓 I am currently working with: Machine Learning & Deep Learning with Python
-* 🔭 I build: LLM pipelines, RAG systems, agentic workflows (LangGraph), real-time CV systems, and audio pipelines using Whisper
-* 📫 Email: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
+* **Primary focus:** Generative models (LLMs), Retrieval-Augmented Generation, agentic workflows, and production model serving.
+* **Contact:** [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
 
 ---
 
 ## Core strengths & focus areas
 
-* **Large Language Models (LLMs)** — prompt engineering, fine-tuning, evaluation. 🤖
-* **Retrieval-Augmented Generation (RAG)** — vector stores, embeddings, retrieval stacks, latency-aware design. 📚
-* **Agentic & Multi-agent workflows** — orchestration and chaining agents using **LangGraph**. 🧩
-* **MLOps & Production** — serving models with **FastAPI** 🚀, containerization with **Docker** 🐳, CI/CD and model packaging. ⚙️
-* **Computer Vision** — real-time SOTA image segmentation for low-latency applications (edge/embedded deployments). 📷🎯
-* **Audio & Speech** — Whisper-based STT, speaker diarization and downstream audio pipelines. 🎙️
+* **Generative models / LLMs:** prompt engineering, fine-tuning, instruction tuning, model evaluation
+* **Retrieval & RAG:** embeddings, vector stores, retrieval stacks, latency-aware design
+* **Agentic & multi-agent workflows:** LangGraph orchestration and testing of multi-step pipelines
+* **MLOps & Serving:** FastAPI-backed inference, Docker containerization, CI/CD and monitoring
+* **Computer vision & audio:** real-time segmentation pipelines; Whisper-based STT and speaker diarization
 
 ---
 
 ## Selected tools & technologies
 
-* **Languages:** Python 🐍, C++ 💠, SQL 🗄️
-* **Deep learning & ML:** PyTorch 🔥, scikit-learn 📊, torchvision 📐
-* **LLM ecosystem:** OpenAI 🧠, Hugging Face 🤗, LangGraph 🧩
-* **MLOps / Serving:** FastAPI 🚀, Docker 🐳, Gunicorn, Uvicorn, (CI/CD pipelines) ⚙️
-* **CV & audio:** OpenCV 📷, segmentation models (SOTA) 🧵, Whisper 🎙️, pyannote (for diarization) 👥
-* **Data & infra:** Pandas 🐼, NumPy 🔢, Kubernetes ☸️ (familiarity), PostgreSQL / MySQL 🛢️
-* **Others:** Git & GitHub, Linux 🐧, VSCode / IDEs 🛠️
-
----
-
-## Highlights / Experience
-
-* Built retrieval + LLM stacks for knowledge-grounded generation and Q&A (RAG). 📚 + 🤖
-* Implemented multi-agent orchestration and pipelines using **LangGraph** for task automation and complex workflows. 🧩
-* Deployed production model endpoints with **FastAPI** inside Docker containers; designed for low latency and safe inference. 🚀🐳
-* Developed real-time image segmentation pipelines (SOTA models) optimized for inference speed on edge/embedded platforms. 📷⚡
-* Implemented audio pipelines using OpenAI's **Whisper** for STT and performed speaker diarization for multi-speaker transcripts. 🎙️👥
-
-## What I can help with
-
-* Prototype and productionize LLM & RAG solutions.
-* Build agentic / multi-agent flows using LangGraph.
-* Deploy ML models with FastAPI + Docker (end-to-end MLOps).
-* Optimize CV models for real-time inference and embedded deployment.
-* Design audio STT workflows and speaker diarization pipelines.
-
----
-
-## Connect with me
-
-<p>
-  <a href="https://linkedin.com/in/aashir-ali-soomro" target="_blank">LinkedIn</a> •
-  <a href="https://kaggle.com/prince_aashir" target="_blank">Kaggle</a> •
-  <a href="https://github.com/aashir023" target="_blank">GitHub</a> •
-  <a href="https://instagram.com/_princeaashir25" target="_blank">Instagram</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,cpp,linux,git,github,docker,fastapi,postgres,mysql,opencv" />
 </p>
 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="28" height="28"> Python &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="28" height="28"> PyTorch &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="28" height="28"> scikit-learn &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="28" height="28"> FastAPI &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="28" height="28"> Docker &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="Hugging Face" width="28" height="28"> Hugging Face &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="OpenAI" width="28" height="28"> OpenAI &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="28" height="28"> OpenCV &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="28" height="28"> MySQL
+</p>
+
+---
+
+## Experience & highlights
+
+* Designed and deployed RAG pipelines and production LLM endpoints for knowledge-grounded applications.
+* Built multi-agent orchestration with LangGraph for document workflows and automation.
+* Containerized model services with FastAPI and Docker, integrated with CI pipelines and health monitoring.
+* Implemented real-time segmentation models optimized for low-latency edge inference.
+* Developed Whisper-based audio pipelines for STT and speaker diarization in multi-speaker recordings.
+
+---
+
+## Links
+
+* GitHub: [https://github.com/aashir023](https://github.com/aashir023)
+* LinkedIn: [https://linkedin.com/in/aashir-ali-soomro](https://linkedin.com/in/aashir-ali-soomro)
+* Kaggle: [https://kaggle.com/prince_aashir](https://kaggle.com/prince_aashir)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aashir023&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashir023&show_icons=true&locale=en&layout=compact" alt="top langs" />
+</p>
+
+---
