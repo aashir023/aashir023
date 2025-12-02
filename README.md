@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Hi, I'm Aashir Ali</h1>
-<h3 align="center">Junior Generative AI Engineer — production-ready generative systems & pipelines</h3>
+<h3 align="center">Junior Generative AI Engineer | production-grade generative systems & ML pipelines</h3>
 
-<!-- Small animated illustration floated to the right of the intro -->
+<!-- Small animated illustration floated right -->
 
 <p>
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" align="right" style="width:260px;margin-left:24px;border-radius:6px;">
@@ -15,50 +15,52 @@
 
 ## About
 
-I am a Junior Generative AI Engineer from Pakistan with hands-on experience building and shipping generative systems and production ML services. I work across the model lifecycle — prototyping, evaluation, and production deployment — with a focus on LLMs, RAG systems, multi-agent orchestration, and MLOps.
+I’m a Junior Generative AI Engineer based in Pakistan. I design, build and ship production-capable generative systems — from prototyping research ideas to operational deployments. My work covers Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic and multi-agent orchestration (LangGraph), and the MLOps practices required to make those systems reliable and maintainable in production.
 
-* **Primary focus:** Generative models (LLMs), Retrieval-Augmented Generation, agentic workflows, and production model serving.
-* **Contact:** [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
+I’ve implemented retrieval stacks with vector indexes, integrated them with LLMs for knowledge-grounded responses, and built multi-step agent pipelines to split complex tasks into reliable subtasks. On the production side I build FastAPI-backed model services, containerize them with Docker, and wire them into CI/CD and monitoring pipelines so teams can safely push updates and operate at scale.
+
+Beyond text, I have practical experience with real-time computer vision (SOTA segmentation models optimized for low-latency inference) and audio pipelines — including speech-to-text with OpenAI’s Whisper and speaker diarization for multi-speaker transcripts.
+
+Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
 
 ---
 
 ## Core strengths & focus areas
 
-* **Generative models / LLMs:** prompt engineering, fine-tuning, instruction tuning, model evaluation
-* **Retrieval & RAG:** embeddings, vector stores, retrieval stacks, latency-aware design
-* **Agentic & multi-agent workflows:** LangGraph orchestration and testing of multi-step pipelines
-* **MLOps & Serving:** FastAPI-backed inference, Docker containerization, CI/CD and monitoring
-* **Computer vision & audio:** real-time segmentation pipelines; Whisper-based STT and speaker diarization
+* Generative models & LLMs: prompt engineering, fine-tuning, instruction tuning, evaluation and calibration
+* Retrieval & RAG: embeddings, vector stores (FAISS/annoy), retrieval pipelines, and latency-aware design
+* Agentic & multi-agent workflows: LangGraph orchestration, planning, and robust error handling between agents
+* MLOps & Serving: FastAPI-based inference services, Docker containerization, CI/CD, observability and cost-aware deployment
+* Computer Vision & Audio: segmentation model optimization for edge, Whisper-based STT, speaker diarization and transcript processing
 
 ---
 
 ## Selected tools & technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,cpp,linux,git,github,docker,fastapi,postgres,mysql,opencv" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="34" height="34" title="Python">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="34" height="34" title="PyTorch">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="34" height="34" title="scikit-learn">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="Hugging Face" width="34" height="34" title="Hugging Face">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="OpenAI" width="34" height="34" title="OpenAI">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="34" height="34" title="FastAPI">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="34" height="34" title="Docker">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="34" height="34" title="OpenCV">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="34" height="34" title="MySQL">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="34" height="34" title="Git">&nbsp;&nbsp;
 </p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="28" height="28"> Python &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="28" height="28"> PyTorch &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="28" height="28"> scikit-learn &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="28" height="28"> FastAPI &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="28" height="28"> Docker &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="Hugging Face" width="28" height="28"> Hugging Face &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="OpenAI" width="28" height="28"> OpenAI &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="28" height="28"> OpenCV &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="28" height="28"> MySQL
-</p>
+*If any icon doesn't render on GitHub, I can switch to a plain list or use SVG embeds as a fallback.*
 
 ---
 
 ## Experience & highlights
 
-* Designed and deployed RAG pipelines and production LLM endpoints for knowledge-grounded applications.
-* Built multi-agent orchestration with LangGraph for document workflows and automation.
-* Containerized model services with FastAPI and Docker, integrated with CI pipelines and health monitoring.
-* Implemented real-time segmentation models optimized for low-latency edge inference.
-* Developed Whisper-based audio pipelines for STT and speaker diarization in multi-speaker recordings.
+* Designed and deployed multiple RAG systems integrating vector indexes with LLMs for knowledge-grounded generation and Q&A.
+* Built multi-agent orchestration using LangGraph to decompose complex workflows into reliable agent sub-tasks, with clear state passing and retry policies.
+* Packaged model services with FastAPI, containerized them using Docker, and integrated with CI pipelines and monitoring for safe production operations.
+* Implemented real-time segmentation models optimized for edge inference (pruning/quantization and runtime tuning).
+* Built audio pipelines using Whisper for STT and pyannote-like approaches for speaker diarization, producing clean multi-speaker transcripts and metadata.
 
 ---
 
