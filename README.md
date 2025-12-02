@@ -17,7 +17,7 @@
 
 I’m a Junior AI Engineer based in Pakistan. I design, build and ship generative AI systems, from prototyping to production deployments. My work covers Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic and multi-agent orchestration (LangGraph), and the MLOps practices required to make those systems reliable and maintainable in production.
 
-I’ve implemented retrieval stacks with vector indexes, integrated them with LLMs for knowledge-grounded responses, and built multi-step agent pipelines to split complex tasks into reliable subtasks. On the production side I build FastAPI-backed model services, containerize them with Docker, and wire them into CI/CD and monitoring pipelines so teams can safely push updates and operate at scale.
+I develop retrieval-augmented systems leveraging vector databases, integrating them with large language models to enable context-aware, knowledge-grounded responses. I architect multi-step agent pipelines that decompose complex tasks into modular, deterministic subtasks for robust execution. In production, I implement FastAPI-based model serving and containerized deployments, ensuring scalable, reliable, and production-ready ML services. On the production side I build FastAPI-backed model services, containerize them with Docker, and wire them into CI/CD and monitoring pipelines so teams can safely push updates and operate at scale.
 
 Beyond text, I have practical experience with real-time computer vision (SOTA segmentation models optimized for low-latency inference) and audio pipelines , including speech-to-text with OpenAI’s Whisper and speaker diarization for multi-speaker transcripts.
 
