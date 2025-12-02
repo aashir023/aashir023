@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Aashir Ali</h1>
-<h3 align="center">Junior AI Engineer | building reliable LLM, RAG, and ML systems</h3>
+<h3 align="center">Junior AI Engineer | building reliable LLM, RAG, and Agentic AI systems</h3>
 
 <!-- Small animated illustration floated right -->
 
@@ -35,7 +35,7 @@ Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
 
 ---
 
-## Selected tools & technologies
+## Tools & technologies I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
