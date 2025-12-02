@@ -37,18 +37,17 @@ Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
 
 ## Selected tools & technologies
 
-* Python
-* PyTorch
-* scikit-learn
-* Hugging Face
-* OpenAI
-* FastAPI
-* Docker
-* OpenCV
-* MySQL
-* Git
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFCC00?logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-*If any icon doesn't render on GitHub, I can switch to a plain list or use SVG embeds as a fallback.*
 
 ---
 
