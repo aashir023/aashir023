@@ -15,7 +15,7 @@
 
 ## About
 
-I’m a Junior AI Engineer based in Pakistan. I design, build and ship generative systems, from prototyping t, production deployments. My work covers Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic and multi-agent orchestration (LangGraph), and the MLOps practices required to make those systems reliable and maintainable in production.
+I’m a Junior AI Engineer based in Pakistan. I design, build and ship generative AI systems, from prototyping to production deployments. My work covers Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic and multi-agent orchestration (LangGraph), and the MLOps practices required to make those systems reliable and maintainable in production.
 
 I’ve implemented retrieval stacks with vector indexes, integrated them with LLMs for knowledge-grounded responses, and built multi-step agent pipelines to split complex tasks into reliable subtasks. On the production side I build FastAPI-backed model services, containerize them with Docker, and wire them into CI/CD and monitoring pipelines so teams can safely push updates and operate at scale.
 
@@ -31,7 +31,7 @@ Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
 * Retrieval & RAG: embeddings, vector stores (FAISS/annoy), retrieval pipelines, and latency-aware design
 * Agentic & multi-agent workflows: LangGraph orchestration, planning, and robust error handling between agents
 * MLOps & Serving: FastAPI-based inference services, Docker containerization, CI/CD, observability and cost-aware deployment
-* Computer Vision & Audio: segmentation model optimization for edge, Whisper-based STT, speaker diarization and transcript processing
+* Computer Vision & Audio: segmentation model optimization for edge devices, Whisper-based Speech-To-Text, speaker diarization and transcript processing
 
 ---
 
