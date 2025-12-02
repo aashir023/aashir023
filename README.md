@@ -2,7 +2,7 @@
   <img src="https://github.com/aashir023/aashir023/blob/main/image.png" alt="cover" style="width:100%;max-width:1400px;border-radius:4px;" />
 </p>
 
-<h1 align="center">Hi, I'm Aashir Ali</h1>
+<h1 align="center">👋Hi, I'm Aashir Ali</h1>
 <h3 align="center">Junior AI Engineer @ iOPTIME PVT LTD | building reliable LLM, RAG, and Agentic AI systems</h3>
 
 <!-- Small animated illustration floated right -->
