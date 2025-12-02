@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Aashir Ali</h1>
-<h3 align="center">Junior Generative AI Engineer | production-grade generative systems & ML pipelines</h3>
+<h3 align="center">Junior AI Engineer | production-grade generative systems & ML pipelines</h3>
 
 <!-- Small animated illustration floated right -->
 
@@ -15,7 +15,7 @@
 
 ## About
 
-I’m a Junior Generative AI Engineer based in Pakistan. I design, build and ship production-capable generative systems — from prototyping research ideas to operational deployments. My work covers Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic and multi-agent orchestration (LangGraph), and the MLOps practices required to make those systems reliable and maintainable in production.
+I’m a Junior AI Engineer based in Pakistan. I design, build and ship production-capable generative systems — from prototyping research ideas to operational deployments. My work covers Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic and multi-agent orchestration (LangGraph), and the MLOps practices required to make those systems reliable and maintainable in production.
 
 I’ve implemented retrieval stacks with vector indexes, integrated them with LLMs for knowledge-grounded responses, and built multi-step agent pipelines to split complex tasks into reliable subtasks. On the production side I build FastAPI-backed model services, containerize them with Docker, and wire them into CI/CD and monitoring pipelines so teams can safely push updates and operate at scale.
 
