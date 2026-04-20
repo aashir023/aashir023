@@ -70,9 +70,6 @@ Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
 
 ## Links
 
-* GitHub: [https://github.com/aashir023](https://github.com/aashir023)
-* LinkedIn: [https://linkedin.com/in/aashir-ali-soomro](https://linkedin.com/in/aashir-ali-soomro)
-* Kaggle: [https://kaggle.com/prince_aashir](https://kaggle.com/prince_aashir)
 <p align="center">
   <a href="[https://linkedin.com/in/aashir-ali-soomro](https://linkedin.com/in/aashir-ali-soomro)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -83,8 +80,13 @@ Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
   <a href="[https://your-website.com](https://aashir-ai-portfolio.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
+  <a href="https://kaggle.com/prince_aashir" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://github.com/aashir023" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aashir023&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
