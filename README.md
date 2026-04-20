@@ -73,7 +73,17 @@ Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
 * GitHub: [https://github.com/aashir023](https://github.com/aashir023)
 * LinkedIn: [https://linkedin.com/in/aashir-ali-soomro](https://linkedin.com/in/aashir-ali-soomro)
 * Kaggle: [https://kaggle.com/prince_aashir](https://kaggle.com/prince_aashir)
-
+<p align="center">
+  <a href="[https://linkedin.com/in/aashir-ali-soomro](https://linkedin.com/in/aashir-ali-soomro)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="[https://huggingface.co/prince_aashir](https://huggingface.co/aashir321)" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  </a>
+  <a href="[https://your-website.com](https://aashir-ai-portfolio.netlify.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
+</p>
 ---
 
 <p align="center">
