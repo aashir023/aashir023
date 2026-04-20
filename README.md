@@ -51,6 +51,12 @@ Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
 
 ---
 
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aashir023&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
 ## Experience & highlights
 
 * Designed and deployed multiple RAG systems integrating vector indexes with LLMs for knowledge-grounded generation and Q&A.
