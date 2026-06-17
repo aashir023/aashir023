@@ -77,7 +77,7 @@ Contact: [aashirali619@gmail.com](mailto:aashirali619@gmail.com)
   <a href="https://huggingface.co/aashir321" target="_blank">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   </a>
-  <a href="https://aashir-ai-portfolio.netlify.app/" target="_blank">
+  <a href="[https://aashir-ai-portfolio.netlify.app/](https://aashir-ai-portfolio.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
   <a href="https://kaggle.com/prince_aashir" target="_blank">
